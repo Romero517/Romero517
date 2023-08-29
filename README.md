@@ -1,4 +1,4 @@
-¡Hola que tal! Mi nombre es Olivert, actualmente soy estudiante de Ingenieria de sistemas.
+
 
 
 
