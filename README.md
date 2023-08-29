@@ -1,5 +1,5 @@
-¡Hola que tal! Mi nombre es Olivert soy estudiante de Ingenieria de sistemas
-Mi pasatiempo es programar, porque me permite resolver problemas
+¡Hola que tal! Mi nombre es Olivert, actualmente soy estudiante de Ingenieria de sistemas.
+
 
 
 <!---
